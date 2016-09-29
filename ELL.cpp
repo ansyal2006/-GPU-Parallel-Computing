@@ -3,6 +3,7 @@
 using namespace std;
 int main()
 {
+
     cout<<"Solving the equation y=Ax for a sparse matrix A.\n";
     int n,nnz=0;//n represents the size of (n X n) array A, nnz represents the maximum number of non-zero elements in a row of A.
     cout<<"Enter the size of square matrix A :";
